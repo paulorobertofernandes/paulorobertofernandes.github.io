@@ -22,10 +22,10 @@ body {
 }
 .display-1 {
   font-family: 'Raleway', sans-serif;
-  font-size: 3.6rem;
+  font-size: 3.2rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.76rem;
+  font-size: 5.12rem;
 }
 .display-2 {
   font-family: 'Montserrat', sans-serif;
@@ -62,9 +62,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.88rem;
-    font-size: calc( 1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.56rem;
+    font-size: calc( 1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.44rem;
@@ -1279,7 +1279,7 @@ body {
   min-height: 100vh;
 }
 .cid-qF6gHWsjIL {
-  background-image: url("../../../assets/images/palestras-para-empresas-1350x590.jpg");
+  background-image: url("../../../assets/images/mbr-720x1080.jpg");
 }
 .cid-qF6gHWsjIL h1 {
   color: #616161;
@@ -1299,7 +1299,7 @@ body {
   color: #efefef;
 }
 .cid-qF6gHWsjIL SPAN {
-  color: #00a359;
+  color: #007943;
 }
 .cid-qF0a7q8s0g {
   padding-top: 120px;
@@ -2064,6 +2064,7 @@ body {
 }
 .cid-qF66VaBw5t .mbr-section-subtitle {
   color: #767676;
+  text-align: left;
 }
 .cid-qF66VaBw5t a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2083,6 +2084,9 @@ body {
 }
 .cid-qF66VaBw5t LABEL {
   color: #000000;
+}
+.cid-qF66VaBw5t H2 {
+  text-align: left;
 }
 .cid-qF69n5bPIH {
   padding-top: 90px;
