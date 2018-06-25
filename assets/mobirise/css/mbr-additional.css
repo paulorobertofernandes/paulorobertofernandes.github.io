@@ -2563,6 +2563,15 @@ body {
     padding-top: 3rem;
   }
 }
+.cid-qVZ8kXw1gp .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-qVZ8kXw1gp .media-container-row .mbr-figure {
+    padding-left: 0;
+    padding-right: 4rem;
+  }
+}
 .cid-qVZ8kXw1gp .mbr-section-title {
   text-align: left;
   color: #232323;
