@@ -42,10 +42,10 @@ body {
 }
 .display-5 {
   font-family: 'PORKYS';
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 2.88rem;
 }
 .display-7 {
   font-family: 'Raleway', sans-serif;
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1785,9 +1785,13 @@ body {
 }
 .cid-qF69n5bPIH P {
   color: #c1c1c1;
+  text-align: left;
 }
 .cid-qF69n5bPIH H5 {
   color: #333333;
+}
+.cid-qF69n5bPIH .copyright > p {
+  text-align: left;
 }
 .cid-qTsHadf2aZ .navbar {
   background: #ffffff;
