@@ -94,11 +94,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Paulo Fernandes - Desenvolvedor Web em São Carlos - SP Desde 2007",
+        "title": "Paulo Roberto Fernandes | Desenvolvedor Web em São Carlos - SP Desde 2007",
         "meta_descr": "Soluções criativas para você e sua empresa na web -  websites, loja virtual, aplicações mobile, e mais... Tudo pensado no modelo de seu negócio. ",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/favicon.desenvolvedorweb-150x120.png"
       },
       "components": [
         {
