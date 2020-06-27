@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
 
 
 
@@ -7,7 +7,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 2.8rem;
   font-display: swap;
 }
@@ -15,7 +15,7 @@ body {
   font-size: 4.48rem;
 }
 .display-2 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 2.2rem;
   font-display: swap;
 }
@@ -23,7 +23,7 @@ body {
   font-size: 3.52rem;
 }
 .display-4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 0.8rem;
   font-display: swap;
 }
@@ -39,7 +39,7 @@ body {
   font-size: 2.24rem;
 }
 .display-7 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -545,7 +545,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -736,7 +736,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s0hNEG1d92 H1 {
-  color: #cccccc;
+  color: #c1c1c1;
 }
 .cid-s0hIqeRZUB .navbar {
   padding: .5rem 0;
@@ -908,7 +908,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffd600;
+  background-color: #f5bb15;
 }
 .cid-s0hIqeRZUB button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
